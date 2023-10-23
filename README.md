@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, Tailwindcss, UI/UX**
 
-- 📫 How to reach me **korir_1997@outlook.com**
+- 📫 How to reach me **ismail.korir1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
