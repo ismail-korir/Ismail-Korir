@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [see't](https://www.seet.live/)
+- 🔭 I’m currently building an E-Commerce website
 
-- 💬 Ask me about **react, Tailwindcss, UI/UX**
+- 💬 Ask me about **HTML/CSS, react, Tailwindcss, UI/UX**
 
 - 📫 How to reach me **ismail.korir1997@gmail.com**
 
